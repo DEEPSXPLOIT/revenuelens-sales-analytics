@@ -1,0 +1,4 @@
+order_id,date,region,product,quantity,unit_price
+T01,2026-01-01,South,Laptop,2,10
+T01,2026-01-01,South,Monitor,1,5
+T02,2026-02-01,North,Laptop,1,10

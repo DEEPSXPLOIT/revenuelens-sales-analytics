@@ -1,0 +1,13 @@
+export const salesCSV = `order_id,date,region,product,quantity,unit_price
+O01,2026-01-08,South,Laptop,2,50000
+O02,2026-01-15,North,Monitor,4,12000
+O03,2026-02-03,South,Keyboard,10,1500
+O04,2026-02-11,West,Laptop,3,50000
+O05,2026-03-05,North,Monitor,6,12000
+O06,2026-03-12,South,Laptop,1,50000
+O06,2026-03-12,South,Keyboard,2,1500
+O07,2026-04-10,West,Monitor,3,12000
+O08,2026-04-22,South,Keyboard,8,1500
+O09,2026-05-02,North,Laptop,2,50000
+O10,2026-05-16,West,Monitor,2,12000
+O11,2026-06-03,South,Laptop,3,50000`;

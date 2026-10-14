@@ -1,0 +1,22 @@
+{
+  "name": "revenuelens-sales-analytics",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Analyze transaction CSVs, filter by region, calculate revenue and order value, and explore monthly and product performance with exportable summaries.",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "dev": "next dev -p 3014",
+    "build": "next build",
+    "start": "node scripts/serve.mjs 3014",
+    "test": "node --test tests/*.test.mjs"
+  },
+  "dependencies": {
+    "next": "15.5.12",
+    "react": "19.2.4",
+    "react-dom": "19.2.4",
+    "styled-components": "6.3.11"
+  }
+}
